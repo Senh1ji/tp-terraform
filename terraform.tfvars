@@ -1,0 +1,6 @@
+aws_region          = "ap-south-1"
+vpc_id              = "vpc-0c9864c9862bd09e0"
+subnet_public_cidr  = "50.20.18.0/24"
+subnet_private_cidr = "50.20.6.0/24"
+availability_zone   = "ap-south-1a"
+instance_type       = "t3.medium"
